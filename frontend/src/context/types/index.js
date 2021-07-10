@@ -1,0 +1,1 @@
+export { default as TypesAuth } from "./auth"

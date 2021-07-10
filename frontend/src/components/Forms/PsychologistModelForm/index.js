@@ -1,0 +1,1 @@
+export { default as PsychologistModelForm } from "./PsychologistModelForm"

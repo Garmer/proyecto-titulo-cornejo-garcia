@@ -1,0 +1,1 @@
+export { default as reducerAuth } from  "./auth"
